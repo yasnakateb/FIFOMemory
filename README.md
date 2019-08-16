@@ -31,9 +31,9 @@ This project needs [Icarus-Verilog](http://iverilog.icarus.com) and a VCD viewer
 3. Clone the repository.
 4. Change the directory to src.
 5. <code>$ make display</code> will: 
-* compiles design+TB
-* simulates the verilog design
-*  displays waveforms.
+* Compiles design+TB
+* Simulates the verilog design
+* Displays waveforms.
 
 ------
 ### Block diagram of FIFO
