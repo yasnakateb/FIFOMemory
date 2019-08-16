@@ -30,10 +30,12 @@ This project needs [Icarus-Verilog](http://iverilog.icarus.com) and a VCD viewer
 2. Download [Scansion](http://www.logicpoet.com/scansion/) from here.  
 3. Clone the repository.
 4. Change the directory to src.
-5. <code>$ make display</code> will: 
+5. <code>$ make simulate</code> will: 
 * Compiles design+TB
 * Simulates the verilog design
-* Displays waveforms.
+
+6. <code>$ make display</code> will: 
+*  Displays waveforms.
 
 ------
 ### Block diagram of FIFO
