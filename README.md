@@ -20,7 +20,8 @@ Counter will be decremented if:
 
 
 
-
+Dependencies
+============
 ## macOS
 This project needs [Icarus-Verilog](http://iverilog.icarus.com) and a VCD viewer.
 
