@@ -32,11 +32,11 @@ This project needs [Icarus-Verilog](http://iverilog.icarus.com) and a VCD viewer
 3. Clone the repository.
 4. Change the directory to src.
 5. <code>$ make simulate</code> will: 
-* Compiles design+TB
-* Simulates the verilog design
+* compile design+TB
+* simulate the verilog design
 
 6. <code>$ make display</code> will: 
-*  Displays waveforms.
+*  display waveforms.
 
 ------
 ### Block diagram of FIFO
